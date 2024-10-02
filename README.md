@@ -17,7 +17,7 @@ Foram disponibilizados os serviços REST, para mais detalhes acesse a documenta�
 - [Cards](http://localhost:8082/card-service/swagger-ui/index.html#/)
 - [Product](http://localhost:8081/product-service/swagger-ui/index.html#/)
 
-Obs: Foi disponibilizado na raiz do projeto a collection com os serviços do POSTAMAN.
+Obs: Foi disponibilizado na raiz do projeto a collection com os serviços do POSTMAN.
 
 ## Instalação
 
